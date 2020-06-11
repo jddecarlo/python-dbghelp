@@ -1,2 +1,2 @@
 # python-dbghelp
-A Cython library wrapper for the Windows DbgHelp library.
+A Python library wrapper for the Windows DbgHelp library.
